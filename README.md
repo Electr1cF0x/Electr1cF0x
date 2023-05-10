@@ -11,7 +11,7 @@ class Daniele:
               f"and I know or want to learn these languages and tools: {self.LanguageAndTools}.")
 
 Skills = "Python Dev, MySQL Database Admin, C,C++ Student"
-Contact = "daniele.devops@gmail.com"
+Contact = "Technoir.Dev@protonmail.com"
 LanguageAndTools =  "Python,Flask,Django, MySQL, Php, C, Java, Go"
 
 AllAbout = Daniele(Skills, Contact, LanguageAndTools)
