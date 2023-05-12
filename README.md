@@ -10,7 +10,7 @@ class Daniele:
               f"you can contact me here: {self.Contact},\n"
               f"and I know or want to learn these languages and tools: {self.LanguageAndTools}.")
 
-Skills = "Python Dev, MySQL Database Admin, C,C++ Dev"
+Skills = "Python Dev, C,C++ Dev, MySQL Database Admin"
 Contact = "Technoir.Dev@protonmail.com"
 LanguageAndTools =  "Python, Flask, Django, MySQL, Php, C,C++, Java"
 
