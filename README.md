@@ -1,12 +1,12 @@
 ``` Py
-class Daniele:
+class Technoir:
     def __init__(self, Skills, Contact, LanguageAndTools):
         self.Skills = Skills
         self.Contact =  Contact
         self.LanguageAndTools = LanguageAndTools
 
     def Me(self):
-        print(f"Hi, I'm Daniele and my Skills are {self.Skills},\n"
+        print(f"Hi, my Skills are {self.Skills},\n"
               f"you can contact me here: {self.Contact},\n"
               f"and I know or want to learn these languages and tools: {self.LanguageAndTools}.")
 
