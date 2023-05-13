@@ -27,8 +27,8 @@ AllAbout.Me()
  
 ```ArnoldC
 IT'S SHOWTIME
- GET TO THE CHOPPER Technoir 
-    HERE IS MY INVITATION 
-    TALK TO THE HAND "Ginger, this is Sarah. Pick up if you're there.I'm at this place on Pico Boulevard called Tech Noir"ENOUGH TALK
+  LISTEN TO ME VERY CAREFULLY Technoir
+TALK TO THE HAND "Ginger, this is Sarah. Pick up if you're there.I'm at this place on Pico Boulevard called Tech Noir"
+HASTA LA VISTA, BABY
 YOU HAVE BEEN TERMINATED
 ```
