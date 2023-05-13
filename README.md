@@ -12,7 +12,7 @@ class Daniele:
 
 Skills = "Python Dev, C,C++ Dev, MySQL Database Admin"
 Contact = "Technoir.Dev@protonmail.com"
-LanguageAndTools =  "Python, Flask, Django, MySQL, Php, C,C++, Java"
+LanguageAndTools =  "Python, Flask, MySQL, C ,C++ , Java"
 
 AllAbout = Daniele(Skills, Contact, LanguageAndTools)
 AllAbout.Me()
