@@ -25,7 +25,7 @@ AllAbout.Me()
     
 </p>
  
-```ArnoldC 
+```Scala 
 IT'S SHOWTIME
   LISTEN TO ME VERY CAREFULLY Technoir
 TALK TO THE HAND "Ginger, this is Sarah. Pick up if you're there.I'm at this place on Pico Boulevard called Tech Noir"
