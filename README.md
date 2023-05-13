@@ -14,7 +14,7 @@ Skills = "Python Dev, C,C++ Dev, MySQL Database Admin"
 Contact = "Technoir.Dev@protonmail.com"
 LanguageAndTools =  "Python, Flask, MySQL, C ,C++ ,Java"
 
-AllAbout = Daniele(Skills, Contact, LanguageAndTools)
+AllAbout = Technoir(Skills, Contact, LanguageAndTools)
 AllAbout.Me()
 ```
 <p>
