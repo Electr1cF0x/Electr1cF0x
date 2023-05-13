@@ -25,3 +25,10 @@ AllAbout.Me()
     
 </p>
  
+```ArnoldC
+IT'S SHOWTIME
+ GET TO THE CHOPPER Technoir 
+    HERE IS MY INVITATION 
+    TALK TO THE HAND "Ginger, this is Sarah. Pick up if you're there.I'm at this place on Pico Boulevard called Tech Noir"ENOUGH TALK
+YOU HAVE BEEN TERMINATED
+```
