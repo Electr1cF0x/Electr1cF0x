@@ -11,7 +11,7 @@ class TheCondor:
               f"and I know or want to learn these languages and tools: {self.LanguageAndTools}.")
 
 Skills = "Python, C C++ Dev, MySQL Database Admin"
-Contact = "Technoir.Dev@protonmail.com"
+Contact = "TheCondor-8bit@protonmail.com"
 LanguageAndTools =  "Python, Flask, MySQL, C ,C++ ,Java"
 
 AllAbout = TheCondor(Skills, Contact, LanguageAndTools)
