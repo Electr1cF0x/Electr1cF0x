@@ -12,12 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Technoir-Dev/metrics@master
+      - uses: TheCondor-8bit/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
    
       - name: Most used (with details)
-        uses: Technoir-Dev/metrics@master
+        uses: TheCondor-8bit/metrics@master
         with:
           filename: metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -28,7 +28,7 @@ jobs:
           plugin_languages_limit: 4
 
       - name: Half-year calendar
-        uses: Technoir-Dev/metrics@master
+        uses: TheCondor-8bit/metrics@master
         with:
          filename: metrics.plugin.isocalendar.svg
          token: ${{ secrets.METRICS_TOKEN }}
