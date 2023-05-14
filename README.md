@@ -11,7 +11,7 @@ class Saywoc:
               f"and I know or want to learn these languages and tools: {self.LanguageAndTools}.")
 
 Skills = "Python, C C++ Dev, MySQL Database Admin"
-Contact = "TheCondor-8bit@protonmail.com"
+Contact = "Saywoc@protonmail.com"
 LanguageAndTools =  "Python, Flask, MySQL, C ,C++ ,Java"
 
 AllAbout = Saywoc(Skills, Contact, LanguageAndTools)
