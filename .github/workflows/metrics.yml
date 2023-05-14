@@ -37,7 +37,7 @@ jobs:
       
 
       - name: Icons
-        uses: Technoir-Dev/metrics@master
+        uses: Saycow/metrics@master
         with:
           filename: metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
