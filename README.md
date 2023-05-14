@@ -1,5 +1,5 @@
 ``` Py
-class TheCondor:
+class Saywoc:
     def __init__(self, Skills, Contact, LanguageAndTools):
         self.Skills = Skills
         self.Contact =  Contact
@@ -14,7 +14,7 @@ Skills = "Python, C C++ Dev, MySQL Database Admin"
 Contact = "TheCondor-8bit@protonmail.com"
 LanguageAndTools =  "Python, Flask, MySQL, C ,C++ ,Java"
 
-AllAbout = TheCondor(Skills, Contact, LanguageAndTools)
+AllAbout = Saywoc(Skills, Contact, LanguageAndTools)
 AllAbout.Me()
 ```
 <p>
