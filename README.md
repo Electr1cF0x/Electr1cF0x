@@ -1,5 +1,5 @@
 ``` Py
-class Technoir:
+class TheCondor:
     def __init__(self, Skills, Contact, LanguageAndTools):
         self.Skills = Skills
         self.Contact =  Contact
@@ -14,7 +14,7 @@ Skills = "Python, C C++ Dev, MySQL Database Admin"
 Contact = "Technoir.Dev@protonmail.com"
 LanguageAndTools =  "Python, Flask, MySQL, C ,C++ ,Java"
 
-AllAbout = Technoir(Skills, Contact, LanguageAndTools)
+AllAbout = TheCondor(Skills, Contact, LanguageAndTools)
 AllAbout.Me()
 ```
 <p>
