@@ -21,14 +21,5 @@ AllAbout.Me()
     <img src="github-metrics.svg" alt="Metrics" width = "400">
     <img align= "right"src="/metrics.plugin.isocalendar.svg" alt="Metrics" width = "410">   
     <img align= "right"src="/metrics.plugin.topics.icons.svg" alt="Metrics" width = "400">
-    <img src="/metrics.plugin.languages.details.svg" alt="Metrics"  width = "400">
-    
+    <img src="/metrics.plugin.languages.details.svg" alt="Metrics"  width = "400">    
 </p>
- 
-```Scala 
-IT'S SHOWTIME
-  LISTEN TO ME VERY CAREFULLY Technoir
-TALK TO THE HAND "Ginger, this is Sarah. Pick up if you're there.I'm at this place on Pico Boulevard called Tech Noir"
-HASTA LA VISTA, BABY
-YOU HAVE BEEN TERMINATED
-```
