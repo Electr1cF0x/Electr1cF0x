@@ -12,12 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Saycow/metrics@master
+      - uses: Saywoc/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
    
       - name: Most used (with details)
-        uses: Saycow/metrics@master
+        uses: Saywoc/metrics@master
         with:
           filename: metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -28,7 +28,7 @@ jobs:
           plugin_languages_limit: 4
 
       - name: Half-year calendar
-        uses: Saycow/metrics@master
+        uses: Saywoc/metrics@master
         with:
          filename: metrics.plugin.isocalendar.svg
          token: ${{ secrets.METRICS_TOKEN }}
@@ -37,7 +37,7 @@ jobs:
       
 
       - name: Icons
-        uses: Saycow/metrics@master
+        uses: Saywoc/metrics@master
         with:
           filename: metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
