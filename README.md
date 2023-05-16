@@ -1,6 +1,6 @@
 <p>
 <h4 align="center">I can see you</h4> 
-<a href= "https://archive.org/details/pocorgtfo"><img src="I_see_you.gif" alt="I see You" style="width:380px;height:220px; margin: auto;"></a>
+<a href= "https://archive.org/details/pocorgtfo"><img src="I_see_you.gif" alt="I see You" style="width:380px;height:220px; margin: auto; float: right;"></a>
 </p>
 
 <h3 align="center">Cyber security enthusiast - Blue Team student</h3>
