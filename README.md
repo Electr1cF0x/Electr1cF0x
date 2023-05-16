@@ -1,4 +1,4 @@
-<h3 align = "center">Cybersecurity enthusiast - Blue Team student
+<h3> align = "center">Cybersecurity enthusiast - Blue Team student</h3>
 <p>
 	<a>
 		</a>
