@@ -21,8 +21,9 @@ AllAbout.Me()
 ```
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="/github-metrics.svg">
+	<img src="github-metrics.svg" style="width: 400px; max-width: 100%;">
 	<img src="/metrics.plugin.isocalendar.svg" style="width: 400px; max-width: 100%;" align="right">
 	<img src="/metrics.plugin.languages.details.svg" style="width: 400px; max-width: 100%;" align="right">
-	<img src="github-metrics.svg" style="width: 400px; max-width: 100%;">
+	
 	</a>
 </p>
