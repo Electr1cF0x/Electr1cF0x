@@ -35,13 +35,3 @@ jobs:
          base: ""
          plugin_isocalendar: yes
       
-
-      - name: Icons
-        uses: Saywoc/metrics@master
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
