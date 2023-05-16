@@ -19,9 +19,11 @@ AllAbout.Me()
 ```
 <p>
 	<a>
-        <img src="github-metrics.svg" alt="Metrics" width = "400">
-    </a>
-    <img align= "right"src="/metrics.plugin.isocalendar.svg" alt="Metrics" width = "410">   
+        	<img src="github-metrics.svg" alt="Metrics" width = "400">
+    	</a>
+	<a align= "right">
+    		<img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width = "410">
+		</a>	
     <img align= "right"src="/metrics.plugin.topics.icons.svg" alt="Metrics" width = "400">
     <img src="/metrics.plugin.languages.details.svg" alt="Metrics"  width = "400">    
 </p>
