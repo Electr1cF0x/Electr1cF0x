@@ -17,7 +17,7 @@ AllAbout.Me()
 ```
 <p>
 	<img src="github-metrics.svg" alt="Metrics" width = "400">
-  	<img align="right" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width = "410">
+  	<img align="right" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width = "400">
 	<a href= "https://archive.org/details/pocorgtfo"><img align="right" src="I_see_you.gif" alt="I see You" style="width:400px;height:200px;"></a>
 	<img src="/metrics.plugin.topics.icons.svg" alt="Metrics" width = "400">
 	<img src="/metrics.plugin.languages.details.svg" alt="Metrics"  width = "400">
