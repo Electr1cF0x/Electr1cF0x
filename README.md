@@ -1,6 +1,6 @@
 
 <p align="center">
-	<h3 align = "center">Cyber security enthusiast - Blue Team student</h3>
+	<h3>Cyber security enthusiast - Blue Team student</h3>
 	<a>
 		<img src="I_see_you.gif" alt="I see You" width = "200">
 		</a>	
