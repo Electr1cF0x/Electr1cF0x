@@ -22,5 +22,5 @@ AllAbout.Me()
 <p>
 <img src="github-metrics.svg" style=" width:400px; margin: auto;">
 <img align="right" src="/metrics.plugin.languages.details.svg" style="width:400px; margin: auto;">
-<img align="right" src="/metrics.plugin.isocalendar.svg" style="width:400px; margin: auto;">
+<img align="right" src="/metrics.plugin.isocalendar.svg" style="width:400px; margin: auto; padding: 10px;">
 </p>
