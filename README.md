@@ -20,13 +20,6 @@ AllAbout = Saywoc()
 AllAbout.Me()
 ```
 <p align="center">
-	<a>
-	<img src="github-metrics.svg" style=" width:400px;  display: block; font-size:0;"/>
-	<img align="right" src="/metrics.plugin.languages.details.svg" style="width:400px; float: left; display: block; font-size:0;"/>
-	</a>
-	<a>
-	<img align="right"src="/metrics.plugin.isocalendar.svg" style="width:400px; float: left; display: block; font-size:0;">
-	</a>
-		
+<a target="_blank" rel="noopener noreferrer" href="/Saywoc/Saywoc/blob/main/github-metrics.svg"><a target="_blank" rel="noopener noreferrer" href="/Saywoc/Saywoc/blob/main/metrics.plugin.isocalendar.svg"><img src="/Saywoc/Saywoc/raw/main/metrics.plugin.isocalendar.svg" style="width: 400px; max-width: 100%;" align="right"><a target="_blank" rel="noopener noreferrer" href="/Saywoc/Saywoc/blob/main/metrics.plugin.languages.details.svg"><img src="/Saywoc/Saywoc/raw/main/metrics.plugin.languages.details.svg" style="width: 400px; max-width: 100%;" align="right"></a></a><img src="/Saywoc/Saywoc/raw/main/github-metrics.svg" style="width: 400px; max-width: 100%;"></a>
 
 </p>
