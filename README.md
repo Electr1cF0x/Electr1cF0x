@@ -1,9 +1,8 @@
 <p align="center"> 
 <a href= "https://archive.org/details/pocorgtfo"><img src="I_see_you.gif" alt="I see You" style=" display: block; width:380px;height:220px; "></a>
 <h1 align="center">I can see you</h1>
-</p>"
-
-<h3 align="center">Cyber security enthusiast - Blue Team student</h3>
+</p>
+<h2 align="center">Cyber security enthusiast - Blue Team student</h3>
 		
 ```Py
 class Saywoc:
