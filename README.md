@@ -21,6 +21,5 @@ AllAbout.Me()
 ```
 <p>
 <img src="github-metrics.svg" style=" width:400px;  display: block">
-<img align="right" src="/metrics.plugin.languages.details.svg" style="width:400px; float: left;">
-<img align="right" src="/metrics.plugin.isocalendar.svg" style="width:400px; float: left;">
+<img align="right" src="/metrics.plugin.languages.details.svg" style="width:400px; float: left;"/><img align="right" src="/metrics.plugin.isocalendar.svg" style="width:400px; float: left;">
 </p>
