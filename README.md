@@ -1,9 +1,8 @@
 <h3 align = "center">Cyber security enthusiast - Blue Team student</h3>
 <p>
 	<a>
-		</a>
-	
-	</p>
+		</a>	
+</p>
 
 ```Py
 class Saywoc:
