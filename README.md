@@ -20,6 +20,6 @@ AllAbout = Saywoc()
 AllAbout.Me()
 ```
 <p align="center">
-<a target="_blank" rel="noopener noreferrer" href="/Saywoc/Saywoc/blob/main/github-metrics.svg"><a target="_blank" rel="noopener noreferrer" href="/Saywoc/Saywoc/blob/main/metrics.plugin.isocalendar.svg"><img src="/Saywoc/Saywoc/raw/main/metrics.plugin.isocalendar.svg" style="width: 400px; max-width: 100%;" align="right"><a target="_blank" rel="noopener noreferrer" href="/Saywoc/Saywoc/blob/main/metrics.plugin.languages.details.svg"><img src="/Saywoc/Saywoc/raw/main/metrics.plugin.languages.details.svg" style="width: 400px; max-width: 100%;" align="right"></a></a><img src="/Saywoc/Saywoc/raw/main/github-metrics.svg" style="width: 400px; max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/github-metrics.svg"><a target="_blank" rel="noopener noreferrer" href="/metrics.plugin.isocalendar.svg"><img src="/metrics.plugin.isocalendar.svg" style="width: 400px; max-width: 100%;" align="right"><a target="_blank" rel="noopener noreferrer" href="/Saywoc/Saywoc/blob/main/metrics.plugin.languages.details.svg"><img src="/Saywoc/Saywoc/raw/main/metrics.plugin.languages.details.svg" style="width: 400px; max-width: 100%;" align="right"></a></a><img src="/Saywoc/Saywoc/raw/main/github-metrics.svg" style="width: 400px; max-width: 100%;"></a>
 
 </p>
