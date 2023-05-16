@@ -1,6 +1,5 @@
 <p align="center"> 
 <a href= "https://archive.org/details/pocorgtfo"><img src="I_can_see_you.gif" alt="I can see You" style="width:350px;height:220px; "></a>
-<h1 align="center">I can see you</h1>
 <h3 align="center">Cyber security enthusiast - Blue Team student</h3>
 </p>
 
