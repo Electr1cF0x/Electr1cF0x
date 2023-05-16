@@ -1,7 +1,7 @@
 
 <p>
 	<h3 align="center">Cyber security enthusiast - Blue Team student</h3>
-	<img align="right" src="I_see_you.gif" alt="I see You" width = "500">	
+	<img align="right" src="I_see_you.gif" alt="I see You" width = "400">	
 </p>
 
 ```Py
