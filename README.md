@@ -7,16 +7,16 @@
 ```Py
 class Saywoc:
     def __init__(self):
-        self.Language = ["Python" "C/C++"]
+        self.Language = "Python, C/C++"
         self.Contact =  "Saywoc@protonmail.com"
         self.LanguageAndTools = "Python, Flask, MySQL, C ,C++ ,Java"
 	
     def Me(self):
-        print(f",Languages I know {self.Language},\n"
+        print(f"Languages i know {self.Language}\n"
               f"you can contact me here: {self.Contact},\n"
               f"The languages or tools that I am studying and that I want to deepen: {self.LanguageAndTools}.")
 	      
-AllAbout = Saywoc(Skills, Contact, LanguageAndTools)
+AllAbout = Saywoc()
 AllAbout.Me()
 ```
 <p>
