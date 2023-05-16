@@ -16,7 +16,7 @@ AllAbout = Saywoc()
 AllAbout.Me()
 ```
 <a>
-<img align="right" src="I_see_you.gif" alt="I see You" width = "400" height="600">
+<img align="right" src="I_see_you.gif" alt="I see You" width = "400" height="300">
 </a>
 <p>
 	<img src="github-metrics.svg" alt="Metrics" width = "400">
