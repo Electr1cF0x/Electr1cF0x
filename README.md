@@ -1,7 +1,7 @@
 <h3 align = "center">Cyber security enthusiast - Blue Team student</h3>
 <p>
-	<a align="right">
-		<img src="I_see_you.gif" alt="I see You" width = "400">
+	<a>
+		<img align="right" src="I_see_you.gif" alt="I see You" width = "400">
 		</a>	
 </p>
 
