@@ -19,7 +19,7 @@ class Saywoc:
 AllAbout = Saywoc()
 AllAbout.Me()
 ```
-<p align="center">
+<p align="left">
 <img src="github-metrics.svg" width = "400">
 <img align="right" src="/metrics.plugin.languages.details.svg"  width = "400">
 <img align="right" src="/metrics.plugin.isocalendar.svg" width = "400">
