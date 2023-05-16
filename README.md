@@ -27,6 +27,4 @@ AllAbout.Me()
 			<img src="/metrics.plugin.languages.details.svg" style="width: 400px; max-width: 100%;" align="right">
 		</a>
 	</a>
-	
-	</a>
 </p>
