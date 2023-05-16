@@ -20,10 +20,8 @@ AllAbout.Me()
 <p>
 	<a>
         	<img src="github-metrics.svg" alt="Metrics" width = "400">
+		<img  align= "right" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width = "410">
     		</a>
-	<a align= "right">
-    		<img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width = "410">
-		</a>
 	<a align= "right">
     		<img src="/metrics.plugin.topics.icons.svg" alt="Metrics" width = "400">
 		</a>
