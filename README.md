@@ -1,10 +1,4 @@
 <p> 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 <a href= "https://archive.org/details/pocorgtfo"><img src="I_see_you.gif" alt="I see You" style="width:380px;height:220px; margin: auto; float: right;"></a>
 <h4>I can see you</h4>
 </p>"
