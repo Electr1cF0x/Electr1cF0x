@@ -1,6 +1,7 @@
 <h3 align = "center">Cyber security enthusiast - Blue Team student</h3>
 <p>
-	<a>
+	<a align="right">
+		<img src="I_see_you.gif" alt="I see You" width = "400">
 		</a>	
 </p>
 
@@ -27,5 +28,5 @@ AllAbout.Me()
 	<a>
 		<img src="/metrics.plugin.topics.icons.svg" alt="Metrics" width = "400">
     		<img align= "right" src="/metrics.plugin.languages.details.svg" alt="Metrics"  width = "400">    
-	</a>
+		</a>
 </p>
