@@ -22,7 +22,7 @@ AllAbout.Me()
 <p align="center">
 	<div>
 		<img src="github-metrics.svg" style=" width:400px;  display: block; font-size:0;"/>
-		<img align="right" src="/metrics.plugin.languages.details.svg" style="width:400px; float: left; display: block;"/>
-		<img align="right"src="/metrics.plugin.isocalendar.svg" style="width:400px; float: left; display: block;">
+		<img align="right" src="/metrics.plugin.languages.details.svg" style="width:400px; float: left; display: block; font-size:0;"/>
+		<img align="right"src="/metrics.plugin.isocalendar.svg" style="width:400px; float: left; display: block; font-size:0;">
 	</div>
 </p>
