@@ -1,5 +1,5 @@
 <p> 
-<a href= "https://archive.org/details/pocorgtfo"><img src="I_see_you.gif" alt="I see You" style="width:380px;height:220px; margin-left: margin-right: auto;"></a>
+<a href= "https://archive.org/details/pocorgtfo"><img src="I_see_you.gif" alt="I see You" style=" display: block; width:380px;height:220px; margin-left: margin-right: auto;"></a>
 <h4>I can see you</h4>
 </p>"
 .center {
