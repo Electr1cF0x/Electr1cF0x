@@ -21,10 +21,8 @@ AllAbout.Me()
 ```
 <p align="center">
 <a target="_blank" rel="noopener noreferrer" href="/github-metrics.svg">
+	<img src="/metrics.plugin.isocalendar.svg" style="width: 400px; max-width: 100%;" align="right">
+	<img src="/metrics.plugin.languages.details.svg" style="width: 400px; max-width: 100%;" align="right">
 	<img src="github-metrics.svg" style="width: 400px; max-width: 100%;">
-	<a target="_blank" rel="noopener noreferrer" href="/metrics.plugin.isocalendar.svg"><img src="/metrics.plugin.isocalendar.svg" style="width: 400px; max-width: 100%;" align="right">
-		<a target="_blank" rel="noopener noreferrer" href="/metrics.plugin.languages.details.svg">
-			<img src="/metrics.plugin.languages.details.svg" style="width: 400px; max-width: 100%;" align="right">
-		</a>
 	</a>
 </p>
