@@ -1,19 +1,21 @@
+<h3 align = "center">Cybersecurity enthusiast - Blue Team student
+<p>
+	<a>
+		</a>
+	
+	</p>
 ``` Py
 class Saywoc:
-    def __init__(self, Skills, Contact, LanguageAndTools):
-        self.Skills = Skills
-        self.Contact =  Contact
-        self.LanguageAndTools = LanguageAndTools
-
+    def __init__(self):
+        self.Language = ["Python" "C/C++"]
+        self.Contact =  "Saywoc@protonmail.com"
+        self.LanguageAndTools = "Python, Flask, MySQL, C ,C++ ,Java"
+	
     def Me(self):
-        print(f"Hi, my Skills are {self.Skills},\n"
+        print(f",Languages I know {self.Language},\n"
               f"you can contact me here: {self.Contact},\n"
-              f"and I know or want to learn these languages and tools: {self.LanguageAndTools}.")
-
-Skills = "Python, C C++ Dev, MySQL Database Admin"
-Contact = "Saywoc@protonmail.com"
-LanguageAndTools =  "Python, Flask, MySQL, C ,C++ ,Java"
-
+              f"The languages or tools that I am studying and that I want to deepen: {self.LanguageAndTools}.")
+	      
 AllAbout = Saywoc(Skills, Contact, LanguageAndTools)
 AllAbout.Me()
 ```
