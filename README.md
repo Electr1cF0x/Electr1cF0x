@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href= "https://archive.org/details/pocorgtfo"><img src="BASIC.gif" alt="?!" style="width:300px;height:255px; "></a>
+<a href= "https://archive.org/details/pocorgtfo"><img src="BASIC.gif" alt="?!" style="width:380px;height:255px; "></a>
 <h3 align="center">Cyber security enthusiast -  🔵 Blue Team student</h3>
 </p>
 
