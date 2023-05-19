@@ -8,7 +8,7 @@ class Saywoc:
     def __init__(self):
         self.Language = "Python, C/C++"
         self.Contact =  "Saywoc@protonmail.com"
-        self.LanguageAndTools = "Python, Flask, MySQL, C ,C++ ,Java"
+        self.LanguageAndTools = "Python, Js, MySQL, C ,C++ ,Java"
 	
     def Me(self):
         print(f"Languages i know {self.Language}\n"
