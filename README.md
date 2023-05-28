@@ -1,6 +1,6 @@
 <p align="center"> 
 <a href= "https://archive.org/details/pocorgtfo"><img src="BASIC.gif" alt="?!" style="width:380px;height:255px; "></a>
-<h3 align="center">Cyber security enthusiast -  🔵 Blue Team student</h3>
+<h3 align="center"> 🛡️ Cyber security - 🔵 Blue Team student</h3>
 </p>
 
 ```Py
@@ -8,7 +8,7 @@ class Saywoc:
     def __init__(self):
         self.Language = "Python, C/C++"
         self.Contact =  "Saywoc@protonmail.com"
-        self.LanguageAndTools = "Python, Js, MySQL, C ,C++ ,Java"
+        self.LanguageAndTools = "Python,C ,C++, Js, MySQL"
 	
     def Me(self):
         print(f"Languages i know {self.Language}\n"
