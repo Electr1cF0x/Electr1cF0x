@@ -1,6 +1,6 @@
 <p align="center"> 
 <a href= "https://archive.org/details/pocorgtfo"><img src="BASIC.gif" alt="?!" style="width:380px;height:255px; "></a>
-<h3 align="center"> 🛡️ Cyber security - 🔵 Blue Team student</h3>
+<h3 align="center"> 🛡️ Cyber security - 🔵 Blue Team</h3>
 </p>
 
 ```Py
