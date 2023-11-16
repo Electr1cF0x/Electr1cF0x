@@ -4,7 +4,7 @@
 </p>
 
 ```Py
-class Saywoc:
+class Electr1cF0x:
     def __init__(self):
         self.Language = "Python, C/C++"
         self.Contact =  "saywoc.notfound@gmail.com"
