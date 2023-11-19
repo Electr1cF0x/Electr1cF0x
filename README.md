@@ -12,9 +12,9 @@
 ```Py
 class Electr1cF0x:
     def __init__(self):
-        self.Language = "Python, C/C++"
+        self.Language = "Python, C/C++, js, php"
         self.Contact =  "dreaming.electric.foxes@gmail.com"
-        self.LanguageAndTools = "Python , C , C++ , Js"
+        self.LanguageAndTools = "Python , C , C++ , Js, Php, MySQL"
 	
     def Me(self):
         print(f"Languages i know {self.Language}\n"
