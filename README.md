@@ -2,7 +2,7 @@
 <a href= "https://archive.org/details/pocorgtfo"><img src="BASIC.gif" alt="?!" style="width:380px;height:255px; "></a>
 <h3 align="center"> 🛡️ Cyber security - 🔵 Blue Team</h3>
 
-<a href= "https://archive.org/details/pocorgtfo"><img src="fox.gif" alt="?!" style="width:180px;height:155px; "></a>
+<a href= "https://archive.org/details/pocorgtfo"><img src="fox.gif" alt="?!" style="width:80px;height:55px; "></a>
 </p>
 
 
