@@ -13,7 +13,7 @@
 class Electr1cF0x:
     def __init__(self):
         self.Language = "Python, C/C++, js, php"
-        self.Contact =  "dreaming.electric.foxes@gmail.com"
+        self.Contact =  "Operator-F0x@proton.me"
         self.LanguageAndTools = "Python , C , C++ , Js, Php, MySQL"
 	
     def Me(self):
