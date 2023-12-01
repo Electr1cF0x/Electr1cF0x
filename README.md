@@ -10,7 +10,7 @@
 
 
 ```Py
-class Electr1cF0x:
+class F0x:
     def __init__(self):
         self.Language = "Python, C/C++, js, php"
         self.Contact =  "Operator-F0x@proton.me"
@@ -21,6 +21,6 @@ class Electr1cF0x:
               f"you can contact me here: {self.Contact},\n"
               f"The languages or tools that I am studying and that I want to deepen: {self.LanguageAndTools}.")
 	      
-AllAbout = Saywoc()
+AllAbout = F0x()
 AllAbout.Me()
 ```
